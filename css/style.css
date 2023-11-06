@@ -415,7 +415,6 @@ img{
   position: relative;
   max-width: 400px;
   height: 450px;
-  border: 6px solid var(--section-bg);
 }
 
 .heart-icon{
